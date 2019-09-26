@@ -8,3 +8,5 @@ phanu
 bantu
 Isearl
 phani
+mana
+pantu
